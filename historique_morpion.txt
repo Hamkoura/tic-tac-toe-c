@@ -1,0 +1,13 @@
+Tour 1 : Joueur O joue (0,1)
+Tour 2 : Joueur X joue (0,0)
+Tour 3 : Joueur O joue (2,0)
+Tour 4 : Joueur X joue (0,2)
+Tour 5 : Joueur O joue (1,1)
+Tour 6 : Joueur X joue (1,0)
+Tour 7 : Joueur O joue (1,2)
+Tour 8 : Joueur X joue (2,2)
+Tour 9 : Joueur O joue (2,1)
+
+=== Temps par joueur ===
+Joueur X : 33.70 secondes
+Joueur O : 43.16 secondes
